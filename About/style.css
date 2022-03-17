@@ -2,7 +2,7 @@ body {
     background: #ff5f6d;
     background: -webkit-linear-gradient(to right, #ff5f6d, #ffc371);
     background: linear-gradient(to right, #ff5f6d, #ffc371);
-    min-height: 100vh;
+    min-height: 10vh;
 }
 
 #button-addon1 {
