@@ -90,6 +90,10 @@ h2 {
 }
 
 /* SECTIONS */
+.about {
+    position: relative;
+    top: -200px;
+}
 
 .headline {
   width: 100%;
@@ -110,6 +114,7 @@ h2 {
     display: flex;
     flex-direction: column;
     justify-content: center;
+
 }
 .headline2 {
   width: 100%;
